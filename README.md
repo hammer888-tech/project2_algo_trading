@@ -1,6 +1,6 @@
 # Project 2: BTC Predictor
 
-Team Members: Greg Buiter, Kai Ning, Jimmy Tarika, Justin Gouin
+Team Members: Greg Buiter, Kai Ning, Jimmy Tarika, Justin Gouin /
 Submission Due Date: June 19, 2021
 
 Overview: 
